@@ -1,0 +1,36 @@
+CREATE TABLE doctor (
+    doctor_id  SERIAL PRIMARY KEY,
+    doctor_name VARCHAR(100) NOT NULL,
+    doctor_surname VARCHAR(20) NOT NULL,
+    password_hash VARCHAR(100) NOT NULL,
+    specialty VARCHAR(100)
+);
+
+CREATE TABLE patient (
+    patient_id VARCHAR(10) PRIMARY KEY,
+    patient_name VARCHAR(20) NOT NULL,
+    patient_surname VARCHAR(20) NOT NULL,
+    email VARCHAR(20),
+    phone_number VARCHAR(13),	 	
+    address TEXT
+);
+
+
+
+
+CREATE TABLE examination (
+    exam_id SERIAL PRIMARY KEY,
+    doctor_id INT REFERENCES doctor(doctor_id),
+    patient_id VARCHAR(10) REFERENCES patient(patient_id),
+    exam_date DATE,
+    notes TEXT
+);
+
+CREATE TABLE files (
+    dicom_id SERIAL PRIMARY KEY,
+    exam_id INT REFERENCES examination(exam_id),
+    file_name VARCHAR(255),
+    file_data BYTEA 
+);
+
+

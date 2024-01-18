@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z6FKWZsAdu5K3KTOlqbbxjuR291o26BHFVFrnJDIJUQ=",
+  "Source": "DP_WebApi",
+  "BasePath": "_content/DP_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

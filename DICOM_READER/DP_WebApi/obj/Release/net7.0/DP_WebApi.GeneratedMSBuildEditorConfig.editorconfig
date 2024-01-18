@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DP_WebApi
+build_property.RootNamespace = DP_WebApi
+build_property.ProjectDir = D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DP_WebApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DP_WebApi
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Doctors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Doctors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Patients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Patients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/UNIZA/ING/ZIMNY PRVAK/POT/sem_praca_POT/DICOM_READER/DP_WebApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

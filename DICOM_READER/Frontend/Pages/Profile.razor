@@ -1,0 +1,31 @@
+﻿@page "/"
+@inherits ProfileBase
+
+@if (Patients == null)
+{
+    <h3>Načítavanie pacientov...</h3>
+}
+else
+{
+    <h3 class="mb-5"> Pacienti</h3>
+    var pCount = Patients.Count();
+    if (pCount > 0)
+    {
+        <div class="row">
+            @foreach (var patient in Patients)
+            {
+                <div class="col-md-3 mb-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title mb-3">
+                                @patient.PatientName @patient.PatientSurname
+                            </h5>
+                            <p class="card-text">ID Pacienta: @patient.PatientId</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+
+}

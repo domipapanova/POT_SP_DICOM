@@ -1,0 +1,15 @@
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\bin\Debug\net7.0\DatabaseHanlder.deps.json
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\bin\Debug\net7.0\DatabaseHanlder.runtimeconfig.json
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\bin\Debug\net7.0\DatabaseHanlder.dll
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\bin\Debug\net7.0\DatabaseHanlder.pdb
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.csproj.AssemblyReference.cache
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.AssemblyInfoInputs.cache
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.AssemblyInfo.cs
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.csproj.CoreCompileInputs.cache
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.sourcelink.json
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.dll
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\refint\DatabaseHanlder.dll
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.pdb
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\DatabaseHanlder.genruntimeconfig.cache
+D:\UNIZA\ING\ZIMNY PRVAK\POT\sem_praca_POT\DICOM_READER\DatabaseHanlder\obj\Debug\net7.0\ref\DatabaseHanlder.dll
